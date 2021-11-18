@@ -28,6 +28,10 @@ Users should be able to:
 
 ![](images/myscreenshot.png)
 
+### Links
+
+- [Live Site URL](https://slimbloodworth.github.io/order-summary-card-component/)
+
 ## My process
 
   I started out with a youtube video of someone else doing this challenge and then put the challenge away, unfinished for a couple of months while I worked on other projects. I came back to it recently and ended up re-writing most of the code I started with using the things I learned from a few vidoes and info from w3schools. The intention is to get a more familiarity with using classes.
